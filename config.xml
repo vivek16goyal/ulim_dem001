@@ -4,7 +4,13 @@
   <description>app name is not comming</description>
   <author href="http://goyalonline.com" email="yashaswi@goyalonline.com">Yashaswi Narkhedkar</author>
   <content src="index.html"/>
-  <preference name="permissions" value="none"/>
+    <content src="ind.html"/>
+    <content src="index01.html"/>
+    <content src="Retailer.html"/>
+   <content src="SRepresentation.html"/>
+    <content src="terms and condition.html"/>
+    
+    <preference name="permissions" value="none"/>
   <preference name="orientation" value="portrait"/>
   <preference name="target-device" value="universal"/>
   <preference name="fullscreen" value="false"/>
